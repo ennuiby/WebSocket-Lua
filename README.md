@@ -7,7 +7,7 @@
 Перед установкой создайте папку в которой будет сервер.
 
 ```sh
-git clone https://github.com/ennuiby/WebSocket-Lua.git
+git clone https://github.com/ennuiby/WebSocket-Lua.git .
 npm install
 node index
 ```
